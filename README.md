@@ -485,3 +485,30 @@ await purgePins(); // wipe every pin from this device
 ---
 
 Part of [three.ws](https://three.ws), the open-source platform for 3D AI agents. This repository is exported from the [monorepo](https://github.com/nirholas/three.ws/tree/main/packages/irl), which is the source of truth: open issues here, and send larger changes there.
+
+<!-- three.ws:growth -->
+## Support the project
+
+If irl saves you time, **[star it on GitHub](https://github.com/nirholas/irl)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=irl%3A%20Geofenced%2C%20real-world%20presence%20for%20agents%20and%20avatars%3A%20check%20in%20at%20a%20GPS%20spot%20with%20a&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Firl) · [Share on Bluesky](https://bsky.app/intent/compose?text=irl%3A%20Geofenced%2C%20real-world%20presence%20for%20agents%20and%20avatars%3A%20check%20in%20at%20a%20GPS%20spot%20with%20a%20https%3A%2F%2Fgithub.com%2Fnirholas%2Firl) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Firl) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Firl&t=irl%3A%20Geofenced%2C%20real-world%20presence%20for%20agents%20and%20avatars%3A%20check%20in%20at%20a%20GPS%20spot%20with%20a) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Firl&title=irl%3A%20Geofenced%2C%20real-world%20presence%20for%20agents%20and%20avatars%3A%20check%20in%20at%20a%20GPS%20spot%20with%20a)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/irl` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/irl/issues) or [start a discussion](https://github.com/nirholas/irl/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/irl)](https://github.com/nirholas/irl/graphs/contributors)
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/irl&type=Date)](https://www.star-history.com/#nirholas/irl&Date)
+
+<!-- /three.ws:growth -->
